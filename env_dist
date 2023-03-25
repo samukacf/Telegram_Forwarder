@@ -2,9 +2,9 @@
 TZ=Europe/Minsk
 ENV=ANYTHING
 WORKERS=4
-BOT_TOKEN=
+BOT_TOKEN=5686808148:AAFXXqNMcF7pleyifyksZ9qGGg0byjqs8xo
 # ID of user which can configure the bot throught PM
 OWNER_ID=
 # Chat ID's in format -100XXXXXXXXXX
-FROM_CHATS=
-TO_CHATS=
+FROM_CHATS=-1573772626
+TO_CHATS=-1953853696
